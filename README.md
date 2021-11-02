@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Guilherme Oliveira 
 
 
-- 🧑‍🎓Atualmente estudante de Analise e desenvolviemento de sistemas.
-- 💻 Aprendendo a programar em Python
+- 🧑‍🎓Atualmente Estudante de Analise e Desenvolviemento de Sistemas.
+- 💻 Aprendendo a Programar em Python
 - 🤩 Tenho interesse em trabalhar com back-and 
 
 
