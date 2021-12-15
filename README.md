@@ -2,7 +2,7 @@
 
 
 - 🧑‍🎓Atualmente Estudante de Analise e Desenvolviemento de Sistemas.
-- 🤩 Tenho interesse em trabalhar com back-and
+- 🤩 Tenho interesse em trabalhar com back-and e Desenvolvimento 
 - 💻 Aprendendo a Programar em Python
  
 
