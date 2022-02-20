@@ -4,6 +4,7 @@
 - 🧑‍🎓Atualmente Estudante de Analise e Desenvolviemento de Sistemas.
 - 🤩 Trabalhando como desenvolvedor e parte do time de integração de Software
 - 💻 Aprendendo novas linguagens como VB6 e C# 
+- Iniciando com Banco de dados 
  
 
 
@@ -11,7 +12,10 @@
   
   <img align="center" alt="gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="gui-js" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="gui-c#" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="gui-sql" height="60" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 
+ 
 </div>
 
 ##
