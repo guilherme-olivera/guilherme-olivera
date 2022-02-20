@@ -2,8 +2,8 @@
 
 
 - 🧑‍🎓Atualmente Estudante de Analise e Desenvolviemento de Sistemas.
-- 🤩 Tenho interesse em trabalhar com back-and e Desenvolvimento 
-- 💻 Aprendendo a Programar em Python e Javascript
+- 🤩 Trabalhando como desenvolvedor e parte do time de integração de Software
+- 💻 Aprendendo novas linguagens como VB6 e C# 
  
 
 
