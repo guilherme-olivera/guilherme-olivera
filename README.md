@@ -2,7 +2,7 @@
 
 
 - 🧑‍🎓Atualmente Estudante de Analise e Desenvolviemento de Sistemas.
-- 🤩 Trabalhando como desenvolvedor e parte do time de integração de Software
+- 🤩 Trabalhando como desenvolvedor e parte da equipe de integração  na Gatec
 - 💻 Aprendendo novas linguagens como VB6 e C# 
 - Iniciando com Banco de dados 
  
