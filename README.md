@@ -2,10 +2,10 @@
 
 
 -🎓 Estudando Análise e Desenvolviemento de Sistemas.
--👾 Iniciando a carreira de Programador e desenvolvedor
--💻 Aprendendo novas linguagens como VB6 e C# 
--🏙 Trabalhando atualmente com integrações de software
--👅 Inglês em desenvolvimento 📈
+-👾 Iniciando a carreira de Programador e desenvolvedor.
+-💻 Aprendendo novas linguagens como VB6 e C# .
+-🏙 Trabalhando atualmente com integrações de software.
+-👅 Inglês em desenvolvimento 📈.
 
  <div align="center">
  <a href="https://github.com/guilherme-olivera">
@@ -18,11 +18,11 @@
   
   <img align="center" alt="gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
   <img align="center" alt="gui-js" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
-  <img align="center" alt="gui-c#" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
-  <img align="center" alt="gui-sql" height="60" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> 
+  <img align="center" alt="gui-c#" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />   
   <img align="center" alt="gui-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> 
   <img align="center" alt="gui-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
  <img align="right" alt="guifoto" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/957321444096901214/957321582269825085/Avatar-Maker.png?width=676&height=676">
+ <img align="center" alt="gui-sql" height="60" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
 </div>
 
