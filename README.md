@@ -1,11 +1,12 @@
 ### Olá! Eu sou o Guilherme Oliveira 
 
 
-- 🧑‍🎓Atualmente Estudante de Analise e Desenvolviemento de Sistemas.
-- 🤩 Trabalhando como desenvolvedor e parte da equipe de integração  na Gatec
-- 💻 Aprendendo novas linguagens como VB6 e C# 
-- Iniciando com Banco de dados 
-- 
+-🎓 Estudando Análise e Desenvolviemento de Sistemas.
+-👾 Iniciando a carreira de Programador e desenvolvedor
+-💻 Aprendendo novas linguagens como VB6 e C# 
+-🏙 Trabalhando atualmente com integrações de software
+-👅 Inglês em desenvolvimento 📈
+
  <div align="center">
  <a href="https://github.com/guilherme-olivera">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-olivera&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
