@@ -22,7 +22,9 @@
   <img align="center" alt="gui-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> 
   <img align="center" alt="gui-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="gui-sql" height="80" width="80"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img align="right" alt="guifoto" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/957321444096901214/957344882203189338/Webp.net-gifmaker.gif?width=700&height=700">
+<img align="right" alt="guigif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/957321444096901214/957344882203189338/Webp.net-gifmaker.gif?width=700&height=700">
+  
+ 
  
 </div>
 </div>
