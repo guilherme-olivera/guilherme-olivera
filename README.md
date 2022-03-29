@@ -8,7 +8,7 @@
 
   <div align="center">
   <a href="https://github.com/guilherme-olivera">
-  <img height="180em"src="https://github-readme-stats.vercel.app/api?username=guilherme-olivera&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em"src="https://github-readme-stats.vercel.app/api?username=guilherme-olivera&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>
   <img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-olivera&layout=compact&langs_count=7&theme=dracula"/>
   </div>
 
@@ -24,7 +24,7 @@
 <img align="right" alt="guigif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/957321444096901214/957344882203189338/Webp.net-gifmaker.gif?width=700&height=700">
   
  <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/guilherme-olivera/guilherme-olivera"></a> hipsters and nerds have come here 🤖
+  <a href="#"><img src="https://badges.pufler.dev/visits/guilherme-olivera/guilherme-olivera"></a> valeu pela visita! 🤖
 </p>
  
 </div>
