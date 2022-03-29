@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Guilherme Oliveira 
 
-
+-  
 - 🎓 Estudando Análise e Desenvolviemento de Sistemas.
 - 👾 Iniciando a carreira de Programador e desenvolvedor.
 - 💻 Aprendendo novas linguagens como VB6 e C# .
