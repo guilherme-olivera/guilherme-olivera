@@ -5,7 +5,7 @@
 - 💻 Aprendendo novas linguagens como VB6 e C# .
 - 🏙 Trabalhando atualmente com integrações de software.
 - 👅 Inglês em desenvolvimento 📈.
-
+##
   <div>
   <a href="https://github.com/guilherme-olivera">
   <img height="180em"src="https://github-readme-stats.vercel.app/api?username=guilherme-olivera&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
