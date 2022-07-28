@@ -13,8 +13,7 @@
 </div>
 
 
-<div style="display: inline_block"><br>
-  
+<div style="display: inline_block"><br
   <img align="center" alt="gui-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
   <img align="center" alt="gui-js" height="50" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
   <img align="center" alt="gui-c#" height="50" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />   
