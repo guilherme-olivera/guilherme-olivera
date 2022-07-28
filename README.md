@@ -6,11 +6,11 @@
 - 🏙 Trabalhando atualmente com integrações de software.
 - 👅 Inglês em desenvolvimento 📈.
 ##
-  <div>
-  <a href="https://github.com/guilherme-olivera">
-  <img height="180em"src="https://github-readme-stats.vercel.app/api?username=guilherme-olivera&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-olivera&layout=compact&langs_count=7&theme=tokyonight"/>
-  </div>
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=guilherme-olivera&theme=dark&show_icons=true&include_all_commits=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=guilherme-olivera&theme=dark&show_icons=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?layout=compact&langs_count=6&theme=dark&username=guilherme-olivera" height="150" alt="languages graph"  />
+</div>
 
 
 <div style="display: inline_block"><br>
