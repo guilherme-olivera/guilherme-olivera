@@ -6,27 +6,19 @@
 - 🏙 Trabalhando atualmente com integrações de software.
 - 👅 Inglês em desenvolvimento 📈.
 ##
-  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guilherme-olivera&theme=dark&show_icons=true&include_all_commits=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=guilherme-olivera&theme=dark&show_icons=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?layout=compact&langs_count=6&theme=dark&username=guilherme-olivera" height="150" alt="languages graph"  />
+<a href="https://github.com/guilherme-olivera">
+<img height="155em" src="https://github-readme-stats.vercel.app/api?username=guilherme-olivera&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="155em" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-olivera&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
-
-
-<div style="display: inline_block"><br
-  <img align="center" alt="gui-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-  <img align="center" alt="gui-js" height="50" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
-  <img align="center" alt="gui-c#" height="50" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />   
-  <img align="center" alt="gui-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> 
-  <img align="center" alt="gui-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="gui-sql" height="80" width="80"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img align="right" alt="guigif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/957321444096901214/957344882203189338/Webp.net-gifmaker.gif?width=700&height=700">
   
- <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/guilherme-olivera/guilherme-olivera"></a> valeu pela visita! 🤖
-</p>
- 
-</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="gui-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="gui-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="gui-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="gui-BootStrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" alt="gui-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="gui-SQLServer" height="70" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+  <img align="center" alt="Samuel-Oracle" height="70" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
 </div>
 
 ##
