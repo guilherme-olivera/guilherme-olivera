@@ -2,7 +2,7 @@
 
 - 🎓 Estudando Análise e Desenvolviemento de Sistemas.
 - 👾 Iniciando a carreira de Programador e desenvolvedor.
-- 💻 Aprendendo novas linguagens como VB6 e C# .
+- 💻 Aprendendo novas linguagens como C# e JS.
 - 🏙 Trabalhando atualmente com integrações de software.
 - 👅 Inglês em desenvolvimento 📈.
 ##
