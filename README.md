@@ -1,9 +1,7 @@
 ### Olá! Eu sou o Guilherme Oliveira 
 
-- 🎓 Estudando Análise e Desenvolviemento de Sistemas.
-- 👾 Iniciando a carreira de Programador e desenvolvedor.
-- 💻 Aprendendo novas linguagens como C# e JS.
-- 🏙 Trabalhando atualmente com integrações de software.
+- 🎓 Formado em Análise e Desenvolviemento de Sistemas.
+- 🏙 Trabalhando atualmente com Desenvolvimento de software.
 - 👅 Inglês em desenvolvimento 📈.
 ##
 <a href="https://github.com/guilherme-olivera">
