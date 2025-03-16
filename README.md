@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Guilherme Oliveira 🚀
 
 💻 Desenvolvedor de Software | 🏙️ Ativo no mercado de tecnologia  
-🎓 Formado em Análise e Desenvolvimento de Sistemas  
-📈 Buscando evolução constante, com foco em **C#, Python e Banco de Dados**  
+🎓 Pós Graduado em Desenvolvimento Web Full Stack || Puc Minas  
+📈 Buscando evolução constante  
 🌍 Inglês em desenvolvimento  
 
 ---
