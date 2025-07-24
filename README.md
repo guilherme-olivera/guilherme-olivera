@@ -1,25 +1,29 @@
-### Olá! Eu sou o Guilherme Oliveira 🚀
+### 👋 Hi, I'm Guilherme Oliveira
 
-💻 Desenvolvedor de Software | 🏙️ Ativo no mercado de tecnologia  
-🎓 Pós Graduado em Desenvolvimento Web Full Stack || Puc Minas  
-📈 Buscando evolução constante  
-🌍 Inglês em desenvolvimento  
+**Software Architect** | **AI & Cloud Enthusiast** | **Postgraduate in Software Architecture**
 
----
-
-### 📊 Meu desempenho no GitHub:
-
-<a href="https://github.com/guilherme-olivera">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-olivera&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-</a>
-
-<a href="https://github.com/guilherme-olivera">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-olivera&layout=compact&langs_count=7&theme=codeSTACKr"/>
-</a>
+🚀 Passionate about designing and delivering scalable, secure, and intelligent software solutions. I combine experience in backend development with knowledge in cloud infrastructure, AI, and software architecture to build modern systems that solve real-world problems.
 
 ---
 
-### 🚀 Tecnologias que utilizo:
+### 🧩 Featured Projects
+
+- 🔧 [Trainer AI](https://github.com/guilherme-olivera/trainer-ai): Smart running coach system that adapts workouts based on user performance and goals using AI principles.
+- 🔐 [Microservice Auth API](https://github.com/guilherme-olivera/microservice-auth-api): Lightweight authentication service using Node.js, JWT and MongoDB, following clean architecture.
+- 📈 [ML Price Predictor](https://github.com/guilherme-olivera/ml-price-predictor): Machine learning model for predicting product prices based on historical data and regression models.
+
+---
+
+### 💡 Interests
+
+- **Software Architecture:** Clean Architecture, Microservices, DevSecOps, Scalable Systems  
+- **Machine Learning & AI:** Python, TensorFlow, OpenAI, predictive models  
+- **Cloud Platforms:** AWS (Amazon Web Services), Microsoft Azure  
+- **Cybersecurity:** Secure-by-design systems, LGPD, IAM  
+
+---
+
+### 🛠️ Technologies I Work With
 
 <div align="center">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#"/>
@@ -30,16 +34,31 @@
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle"/>
 </div>
 
----
-
-### 🚀 Gráfico de atividades:
-
-![Atividade do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=guilherme-olivera&theme=codeSTACKr)
+> Also experienced with: Node.js · MongoDB · Git · Docker · REST APIs · CI/CD · SQL Server · Express.js
 
 ---
 
-### 🌎 Onde me encontrar:
+### 📊 GitHub Stats
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guiii.olivera/)
+<a href="https://github.com/guilherme-olivera">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-olivera&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+</a>
+<a href="https://github.com/guilherme-olivera">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-olivera&layout=compact&langs_count=7&theme=codeSTACKr"/>
+</a>
+
+---
+
+### 📈 Activity Graph
+
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=guilherme-olivera&theme=codeSTACKr)
+
+---
+
+### 🌎 Where to find me
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-oliveira-santos-346b07169/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guiii.olivera/)
 [![Email](https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme.oliveirasantos@hotmail.com)
+
+📧 guilherme.oliveirasantos@hotmail.com
